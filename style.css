@@ -255,6 +255,15 @@ header {
     flex-direction: column;
     row-gap: 0.5rem;   
 }
+
+
+
+
+
+
+
+
+
 @keyframes hero{
     0%,100%{
         transform: translateY(0);
@@ -269,6 +278,7 @@ header {
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
+    
 }
 
 @media(max-width:1058px){
